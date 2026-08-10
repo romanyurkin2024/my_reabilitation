@@ -28,6 +28,7 @@ updated: 2026-08-07
 |---------|----------|
 | [[wiki/exercises/daily-recovery-protocol]] | Ежедневный Recovery протокол (25–35 мин) |
 | [[wiki/exercises/mcgill-big-3]] | McGill Big 3 — техника и дозировка |
+| [[wiki/exercises/hip-flexor-stretch]] | Half-Kneeling Hip Flexor Stretch — растяжка iliopsoas |
 
 ## Concepts
 
