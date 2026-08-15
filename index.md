@@ -18,6 +18,7 @@ updated: 2026-08-07
 | [[wiki/overview]] | Обзор всей 42-недельной программы |
 | [[wiki/program/phase-1]] | Фаза 1: Foundation (Недели 1–6) |
 | [[wiki/program/phase-2]] | Фаза 2: Early Strength (Недели 7–14) — *в разработке* |
+| [[wiki/program/gym-training-system]] | Gym 4-Day Split (Фаза 3+) — Upper/Lower A/B |
 | [[wiki/program/phase-3]] | Фаза 3: Building (Недели 15–22) — *в разработке* |
 | [[wiki/program/phase-4]] | Фаза 4: Strength (Недели 23–30) — *в разработке* |
 | [[wiki/program/phase-5]] | Фаза 5: Performance (Недели 31–42) — *в разработке* |
@@ -47,3 +48,4 @@ updated: 2026-08-07
 | Файл | Описание |
 |------|----------|
 | [[raw/philosophy]] | Философия тренировок (из ChatGPT, 2026-08-07) |
+| [[raw/gym-training-tz]] | ТЗ: тренировочная система с минимальной нагрузкой на поясницу (ChatGPT, 2026-08-10) |
