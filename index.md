@@ -30,6 +30,7 @@ updated: 2026-08-07
 | [[wiki/exercises/daily-recovery-protocol]] | Ежедневный Recovery протокол (25–35 мин) |
 | [[wiki/exercises/mcgill-big-3]] | McGill Big 3 — техника и дозировка |
 | [[wiki/exercises/hip-flexor-stretch]] | Half-Kneeling Hip Flexor Stretch — растяжка iliopsoas |
+| [[wiki/exercises/minimum-protocol]] | Минимум — 12-минутный протокол для загруженных дней |
 
 ## Concepts
 
@@ -44,6 +45,7 @@ updated: 2026-08-07
 |---------|----------|
 | [[wiki/training-log/2026-08-07]] | Пропущено |
 | [[wiki/training-log/2026-08-19]] | День 1, Неделя 1 — первая реальная тренировка (зал, Кам Рань) |
+| [[wiki/training-log/2026-08-27]] | День 3, Неделя 1 — после перерыва 6 дней |
 
 ## Raw Sources
 
