@@ -1,6 +1,6 @@
 ---
 title: Wiki Index
-updated: 2026-08-07
+updated: 2026-09-08
 ---
 
 # My Rehabilitation Wiki — Index
@@ -15,7 +15,10 @@ updated: 2026-08-07
 
 | Страница | Описание |
 |---------|----------|
-| [[wiki/overview]] | Обзор всей 42-недельной программы |
+| [[wiki/program/year-plan-2026-2027]] | **Годовой план 2026–2027** — карта фаз, прогрессия, правила |
+| [[wiki/program/phase-1-reset]] | Фаза 1: Reset (Недели 1–4) — детально, 4 дня |
+| [[wiki/program/phase-2-foundation]] | Фаза 2: Foundation (Недели 5–12) — детально |
+| [[wiki/overview]] | Обзор старой 42-недельной программы (архив) |
 | [[wiki/program/phase-1]] | Фаза 1: Foundation (Недели 1–6) |
 | [[wiki/program/phase-2]] | Фаза 2: Early Strength (Недели 7–14) — *в разработке* |
 | [[wiki/program/gym-training-system]] | Gym 4-Day Split (Фаза 3+) — Upper/Lower A/B |
@@ -31,6 +34,7 @@ updated: 2026-08-07
 | [[wiki/exercises/mcgill-big-3]] | McGill Big 3 — техника и дозировка |
 | [[wiki/exercises/hip-flexor-stretch]] | Half-Kneeling Hip Flexor Stretch — растяжка iliopsoas |
 | [[wiki/exercises/minimum-protocol]] | Минимум — 12-минутный протокол для загруженных дней |
+| [[wiki/exercises/pelvic-floor-protocol]] | Тазовое дно — протокол расслабления (гипертонус) |
 
 ## Concepts
 
