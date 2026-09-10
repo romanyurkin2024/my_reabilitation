@@ -18,6 +18,7 @@ updated: 2026-09-08
 | [[wiki/program/year-plan-2026-2027]] | **Годовой план 2026–2027** — карта фаз, прогрессия, правила |
 | [[wiki/program/phase-1-reset]] | Фаза 1: Reset (Недели 1–4) — детально, 4 дня |
 | [[wiki/program/phase-2-foundation]] | Фаза 2: Foundation (Недели 5–12) — детально |
+| [[wiki/program/calisthenics-track]] | **Калистеника** — параллельный трек, светофор упражнений, план развития |
 | [[wiki/overview]] | Обзор старой 42-недельной программы (архив) |
 | [[wiki/program/phase-1]] | Фаза 1: Foundation (Недели 1–6) |
 | [[wiki/program/phase-2]] | Фаза 2: Early Strength (Недели 7–14) — *в разработке* |
