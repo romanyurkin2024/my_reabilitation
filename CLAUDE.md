@@ -54,3 +54,7 @@ When Roman completes a phase or reports symptoms:
 ## Key Principle
 
 One parameter at a time: volume OR intensity OR complexity. Never two at once.
+
+## Response Style
+
+For simple technique questions or "why" questions — answer immediately, concisely, with clear reasoning. No preamble, no recap. One question = one direct answer with the mechanism explained in 2–4 sentences.
